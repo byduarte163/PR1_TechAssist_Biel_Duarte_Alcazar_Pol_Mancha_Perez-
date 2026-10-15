@@ -9,6 +9,10 @@ El modelo Entidad-Relación diseñado para TechAssist representa la información
 # Archivos del repositorio:
 
 Principales Entidades i Relaciones: Documento .PDF con las tablas i relaciones principales
+
 Modelo de tablas: Todas las tablas creadas i pensadas para esta base de datos
+
 Diagrama Entidad-Relacion Final: Diagrama Final de la base de datos
+
 Practica1 Base de dades: Practica Final de la base de datos
+

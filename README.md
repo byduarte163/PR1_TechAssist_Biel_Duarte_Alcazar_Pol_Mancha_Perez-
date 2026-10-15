@@ -1,6 +1,6 @@
 # PR1_TechAssist_Biel_Duarte_Alcazar_Pol_Mancha_Perez-
 
-Integrantes= Biel Duarte Alcazar i Pol Mancha Perez
+Integrantes: Biel Duarte Alcazar i Pol Mancha Perez
 
 El objetivo del diseño es crear un modelo de base de datos que permita organizar y relacionar de forma eficiente la información de clientes, técnicos, departamentos, incidencias y servicios. Se busca evitar la duplicidad de datos, mantener la información actualizada, garantizar su integridad y facilitar su consulta y gestión. 
 
